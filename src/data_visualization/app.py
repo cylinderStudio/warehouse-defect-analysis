@@ -4,6 +4,8 @@ import streamlit as st
 
 data = load_data_package()
 
+st.set_page_config(page_title='Warehouse Defect Analysis')
+
 st.title("Warehouse Defect Analysis")
 st.markdown("Compare defect rates by temperature, noise, and mitigation period.")
 st.markdown("""
