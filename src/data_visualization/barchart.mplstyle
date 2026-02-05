@@ -1,0 +1,14 @@
+axes.titlesize: 20
+axes.titleweight: bold
+axes.titlepad: 15
+axes.labelsize: 13
+axes.labelpad: 13
+xtick.labelsize: 11
+ytick.labelsize: 11
+legend.fontsize: 11
+legend.title_fontsize: 12
+legend.loc: upper left
+legend.frameon: False
+grid.color: gray
+grid.linestyle: --
+grid.linewidth: 0.5
